@@ -1,4 +1,5 @@
-# Hi I'm Ruhi and I am Passionate about all things data ✨
+# Hi I'm Ruhi and I am Passionate about all things data 😃😎🤙🏾
+
 ## Please visit https://ruhimahendra24.github.io/ to learn more about me 🌱
 
 
