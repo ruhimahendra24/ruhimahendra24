@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi I'm Ruhi and I am Passionate about all things data ✨
+## Please visit https://ruhimahendra24.github.io/ to learn more about me 🌱
+
 
 <!--
 **ruhimahendra24/ruhimahendra24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
