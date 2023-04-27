@@ -1,6 +1,5 @@
 # Hi I'm Ruhi and I am passionate about all things data 😃😎🤙🏾
 
-![](https://github.com/ruhimahendra24/ruhimahendra24/blob/main/data.gif)
 
 ## I am currently a graduate student studying Data Analytics @ McGill Univeristy 🤓
 
